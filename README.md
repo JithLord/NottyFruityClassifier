@@ -1,5 +1,6 @@
 # NottyFruityClassifier
 Classifies 33 varieties of fruit. </br> I'm sad it includes Tomato though. It shouldn't even be called a Fruit(xD).
+</br>
 You can email me about any queries or explanation of the code. Happy to help
 </br>
 </br>
